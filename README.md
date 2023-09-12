@@ -1,8 +1,9 @@
 # DS203_Image_denoising
-##Introduction
+## Introduction \\
+
 This project was completed as part of the DS203 course at IIT Bombay, under the guidance of Professor Amit Sethi. The goal of this project was to design and implement a Deep Learning Image Denoising Autoencoder using the Keras library. In this README, we will discuss the project's objectives, the techniques used, its significance, and the enjoyable aspects of working on this project.
 
-##Project Objectives
+## Project Objectives
 The primary objectives of this project were as follows:
 
 *Data Preparation*: Download and preprocess the MNIST dataset, which consists of hand-written digit images.
